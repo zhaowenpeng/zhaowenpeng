@@ -3,10 +3,10 @@
 
 ## 📈 GitHub Stats:
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11&layout=compact&hide_border=true&theme=tokyonight" height="150px" width="50%" /></span><span><img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrieZhao22&layout=compact&hide_border=true&theme=tokyonight" height="150px" width="50%" /></span><span><img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=KyrieZhao22&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </span>
 
 ## 💖 Thanks for Visiting :
-<div align="center"> <img src="https://profile-counter.glitch.me/Kyriezhao11/count.svg" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/KyrieZhao22/count.svg" /> </div>
 
 <!--
 **Kyriezhao11/Kyriezhao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
