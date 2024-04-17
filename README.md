@@ -9,7 +9,7 @@
 <div align="center"> <img src="https://profile-counter.glitch.me/KyrieZhao22/count.svg" /> </div>
 
 <!--
-**Kyriezhao11/Kyriezhao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KyrieZhao22/KyrieZhao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
