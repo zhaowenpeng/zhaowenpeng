@@ -5,9 +5,6 @@
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaowenpeng&layout=compact&hide_border=true&theme=tokyonight" height="150px" width="50%" /></span><span><img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=zhaowenpeng&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </span>
 
-## 💖 Thanks for Visiting :
-<div align="center"> <img src="https://profile-counter.glitch.me/zhaowenpeng/count.svg" /> </div>
-
 <!--
 **zhaowpkyrie/zhaowpkyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
